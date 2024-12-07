@@ -537,7 +537,7 @@ textarea.custom-text-field {
 *******************************************
 */
 
-@media(max-width: 490px) {
+@media(max-width: 491px) {
   .navigation__menu {
     gap: 10px;
   }
